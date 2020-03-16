@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="664bf770-44a8-4ce3-9ebb-777e696e8cb1" name="Default Changelist" comment="" />
+    <list default="true" id="664bf770-44a8-4ce3-9ebb-777e696e8cb1" name="Default Changelist" comment="initialisation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584348650700</updated>
-      <workItem from="1584348652095" duration="520000" />
+      <workItem from="1584348652095" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="initialisation">
       <created>1584349103833</created>
@@ -45,21 +47,39 @@
       <option name="project" value="LOCAL" />
       <updated>1584349103833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initialisation">
+      <created>1584349329826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584349329826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialisation" />
     <option name="LAST_COMMIT_MESSAGE" value="initialisation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1584349236146">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1584349418079">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584349236146" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584349418079" />
     <state x="471" y="144" key="NewPhpClassDialog" timestamp="1584348709257">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
