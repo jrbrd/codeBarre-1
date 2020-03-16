@@ -1,42 +1,45 @@
 <?php
 
 
-class CodeBarre
-{
+    class CodeBarre
+    {
 
-public $bandeblanche;
-public $bandenoires;
-public $elementA;
-public $elementB;
-public $elementC;
-public $gardeGauche;
-public $garardeCentrale;
-public $gardeDroite;
-public $numero;
+    public $bandeblanche;
+    public $bandenoires;
+    public $elementA;
+    public $elementB;
+    public $elementC;
+    public $gardeGauche;
+    public $gardeCentrale;
+    public $gardeDroite;
+    public $numero;
 
-public function __construct($numero) {
-    $this->numero = $numero;
-}
+    public function __construct($numero) {
+        $this->numero = $numero;
+    }
 
-public function getCodeBarre() {
-    return $this->CodeBarre;
-}
+    public function getCodeBarre() {
+        return $this->CodeBarre;
+    }
 
-public function setCodeBarres($numero) {
-    $this->numero = $numero;
-}
+    public function setCodeBarres($numero) {
+        $this->numero = $numero;
+    }
 
-$numero = [X,
-_,
-X,
+    public function dessine() {
 
-foreach($numero as $chiffre) {
-    if($chiffre = 0) {
-        ""
-}
+        $numero = [];
+        $numero[] = ["X", "_", "X"];
 
-}
-,X,_,X]
+        foreach ($numero as $chiffre) {
+            if ($chiffre = 0) {
+            }
+
+        }
+        $numero[] = "X";
+        $numero[] = "_";
+        $numero[] = "X";
+    }
 
 
 }
