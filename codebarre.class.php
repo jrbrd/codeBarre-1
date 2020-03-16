@@ -41,17 +41,17 @@
         $elementB[8] = ["_XX_XXX"];
         $elementB[9] = ["___X_XX"];
 
-        $elementC = [];
-        $elementC[0] = 'XXX__X_';
-        $elementC[1] = 'XX__XX_';
-        $elementC[2] = 'XX_XX__';
-        $elementC[3] = 'X_____X';
-        $elementC[4] = 'XXXX';
-        $elementC[5] = 'XXXX';
-        $elementC[6] = 'XX__';
-        $elementC[7] = 'XX__';
-        $elementC[8] = 'XX_';
-        $elementC[9] = 'XXX_X__';
+$elementC = [];
+$elementC[0] = 'XXX__X_' ;
+$elementC[1] = 'XX__XX_' ;
+$elementC[2] = 'XX_XX__' ;
+$elementC[3] = 'X____X_' ;
+$elementC[4] = 'X_XXX__' ;
+$elementC[5] = 'X__XXX_' ;
+$elementC[6] = 'X_X____' ;
+$elementC[7] = 'X__X___' ;
+$elementC[8] = 'X__X___' ;
+$elementC[9] = 'XXX_X__' ;
 
 
 
