@@ -52,17 +52,86 @@
             if ($chiffre1 = 2) {
                 $numero[] = "_";
                 $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 3) {
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 4) {
+                $numero[] = "_";
+                $numero[] = "X";
                 $numero[] = "_";
                 $numero[] = "_";
                 $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 5) {
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
                 $numero[] = "_";
                 $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 6) {
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 7) {
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 8) {
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 9) {
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+            }
 
-        }
+
+
         $numero[] = "X";
         $numero[] = "_";
         $numero[] = "X";
     }
+
+    $elementA = [];
+    $elementA[0] = ["_", "_", "_", "X",  ]
+
 
 
 }
