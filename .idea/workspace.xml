@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="664bf770-44a8-4ce3-9ebb-777e696e8cb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1ZCgmk6YFonrOCmKOu5k3PaONBd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="664bf770-44a8-4ce3-9ebb-777e696e8cb1" name="Default Changelist" comment="" />
+      <created>1584348650700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584348650700</updated>
+      <workItem from="1584348652095" duration="520000" />
+    </task>
+    <task id="LOCAL-00001" summary="initialisation">
+      <created>1584349103833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584349103833</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialisation" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialisation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1584349236146">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584349236146" />
+    <state x="471" y="144" key="NewPhpClassDialog" timestamp="1584348709257">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="471" y="144" key="NewPhpClassDialog/0.0.1280.689@0.0.1280.689" timestamp="1584348709257" />
+    <state x="477" y="265" key="NewPhpFileDialog" timestamp="1584348850831">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="477" y="265" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1584348850831" />
+    <state x="449" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584349288242">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="449" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1584349288242" />
+  </component>
+</project>
