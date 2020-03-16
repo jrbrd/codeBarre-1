@@ -4,6 +4,7 @@
     <list default="true" id="664bf770-44a8-4ce3-9ebb-777e696e8cb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codebarre.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/codebarre.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584348650700</updated>
-      <workItem from="1584348652095" duration="5725000" />
+      <workItem from="1584348652095" duration="6967000" />
     </task>
     <task id="LOCAL-00001" summary="initialisation">
       <created>1584349103833</created>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584354631323</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initialisation">
+      <created>1584355566647</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584355566647</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +120,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="initialisation" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1584354630619">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1584355565853">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584354630619" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1584355565853" />
     <state x="93" y="93" width="1095" height="504" key="DiffContextDialog" timestamp="1584349771481">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -128,10 +136,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="477" y="265" key="NewPhpFileDialog/0.0.1280.689@0.0.1280.689" timestamp="1584348850831" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1584354644717">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1584355574462">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1584354644717" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1584355574462" />
     <state x="449" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584349506467">
       <screen x="0" y="0" width="1280" height="689" />
     </state>

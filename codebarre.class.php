@@ -4,133 +4,58 @@
     class CodeBarre
     {
 
-    public $bandeblanche;
-    public $bandenoires;
     public $elementA;
     public $elementB;
     public $elementC;
-    public $gardeGauche;
-    public $gardeCentrale;
-    public $gardeDroite;
     public $numero;
 
     public function __construct($numero) {
         $this->numero = $numero;
     }
 
-    public function getCodeBarre() {
-        return $this->CodeBarre;
+    public function dessine($numero) {
+
+        $elementA = [];
+
+        $elementA[0] = ["___XX_X"];
+        $elementA[1] = ["__XX__X"];
+        $elementA[2] = ["__X__XX"];
+        $elementA[3] = ["_XXXX_X"];
+        $elementA[4] = ["_X___XX"];
+        $elementA[5] = ["_XX___X"];
+        $elementA[6] = ["_X_XXXX"];
+        $elementA[7] = ["_XXX_XX"];
+        $elementA[8] = ["_XX_XXX"];
+        $elementA[9] = ["___X_XX"];
+
+        elementB = [];
+
+        $elementB[0] = ["___XX_X"];
+        $elementB[1] = ["__XX__X"];
+        $elementB[2] = ["__X__XX"];
+        $elementB[3] = ["_XXXX_X"];
+        $elementB[4] = ["_X___XX"];
+        $elementB[5] = ["_XX___X"];
+        $elementB[6] = ["_X_XXXX"];
+        $elementB[7] = ["_XXX_XX"];
+        $elementB[8] = ["_XX_XXX"];
+        $elementB[9] = ["___X_XX"];
+
+        $elementC = [];
+        $elementC[0] = 'XXX__X_';
+        $elementC[1] = 'XX__XX_';
+        $elementC[2] = 'XX_XX__';
+        $elementC[3] = 'X_____X';
+        $elementC[4] = 'XXXX';
+        $elementC[5] = 'XXXX';
+        $elementC[6] = 'XX__';
+        $elementC[7] = 'XX__';
+        $elementC[8] = 'XX_';
+        $elementC[9] = 'XXX_X__';
+
+
+
     }
-
-    public function setCodeBarres($numero) {
-        $this->numero = $numero;
-    }
-
-    public function dessine($chiffre1, $chiffre2, $chiffre3, $chiffre4, $chiffre5, $chiffre6, $chiffre7, $chiffre8) {
-
-        $numero = [];
-        $numero[] = ["X", "_", "X"];
-
-            if ($chiffre1 = 0) {
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 1) {
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 2) {
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 3) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 4) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 5) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 6) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 7) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 8) {
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-            if ($chiffre1 = 9) {
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "_";
-                $numero[] = "X";
-                $numero[] = "X";
-            }
-
-
-
-        $numero[] = "X";
-        $numero[] = "_";
-        $numero[] = "X";
-    }
-
-    $elementA = [];
-    $elementA[0] = ["_", "_", "_", "X",  ]
 
 
 
