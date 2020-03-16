@@ -26,14 +26,37 @@
         $this->numero = $numero;
     }
 
-    public function dessine() {
+    public function dessine($chiffre1, $chiffre2, $chiffre3, $chiffre4, $chiffre5, $chiffre6, $chiffre7, $chiffre8) {
 
         $numero = [];
         $numero[] = ["X", "_", "X"];
 
-        foreach ($numero as $chiffre) {
-            if ($chiffre = 0) {
+            if ($chiffre1 = 0) {
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "X";
             }
+            if ($chiffre1 = 1) {
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+                $numero[] = "X";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "X";
+            }
+            if ($chiffre1 = 2) {
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
+                $numero[] = "_";
 
         }
         $numero[] = "X";
