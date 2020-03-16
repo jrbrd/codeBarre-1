@@ -26,5 +26,17 @@ public function setCodeBarres($numero) {
     $this->numero = $numero;
 }
 
+$numero = [X,
+_,
+X,
+
+foreach($numero as $chiffre) {
+    if($chiffre = 0) {
+        ""
+}
+
+}
+,X,_,X]
+
 
 }
